@@ -31,4 +31,4 @@ The recall, auc and accuracy of this new method carried on IASI data was more th
 The files in this project is encoded in UTF-8, either English characters or Chinese characters.
 
 # Tips
-1. Do not fit xgbc after fitting random forest, for me, the python kernel almost died while testing with hundreds of features.
+1. Do not fit xgbc after fitting random forest, for me, the python kernel almost died while testing with hundreds of features.# cloud
