@@ -1,0 +1,8 @@
+1. nan在matlab中读取了nc文件之后，值不定，一些是6.53，一些是653.3。按实际情况判断nan
+
+2. 关于一些字段的说明
+
+topo:  0 for water, 1 for land low, 2 for land high, 3 for land water low, 4 for land water high, 5? maybe undefined?
+
+cloud_fraction: 0~100
+
